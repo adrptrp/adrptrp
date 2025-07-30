@@ -12,16 +12,13 @@
 
 "Bridging technical expertise with innovative solutions"
 
+<div align="center">
+  
 Name: Adrian Putra Pratama
-
 Role: Full-Stack Developer & Web Develoment
-
 Location: Jakarta, Indonesia 🇮🇩
-
 Focus: ["Web Development", "Full-Stack Developer]
-
 Passion: "Creating impactful projects with cutting-edge technologies"
-
 Status: "Always eager for new challenges in tech industry"
 ---
 
