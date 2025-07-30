@@ -8,22 +8,16 @@
 
 ---
 
-### 🚀 **About Me**
+🎯 About The Developer
 
-```javascript
-const Adrian = {
-    name: "Adrian Putra Pratama",
-    location: "Tangerang, Indonesia 🇮🇩",
-    education: [
-        "🎓 Computer & Network Engineering Graduate",
-        "📚 Information Systems Student at UIN Syarif Hidayatullah Jakarta"
-    ],
-    interests: ["Web Development", "Full-Stack", "Mobile Development", "Network Administration"],
-    currentFocus: "Building innovative solutions with cutting-edge technologies",
-    funFact: "I love bridging technical expertise with creative solutions! 💡"
-};
-```
+"Bridging technical expertise with innovative solutions"
 
+Name: Adrian Putra Pratama
+Role: Full-Stack Developer & Web Develoment
+Location: Jakarta, Indonesia 🇮🇩
+Focus: ["Web Development", "Full-Stack Developer]
+Passion: "Creating impactful projects with cutting-edge technologies"
+Status: "Always eager for new challenges in tech industry"
 ---
 
 ### 🛠️ **Tech Arsenal**
