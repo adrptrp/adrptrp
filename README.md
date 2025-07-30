@@ -104,28 +104,12 @@ Status: "Always eager for new challenges in tech industry"
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrptrp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrptrp&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrptrp&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrptrp&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrptrp&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 **Achievement Highlights**
-
-<div align="center">
-  
-| 🌟 **Metric** | 📈 **Value** |
-|:---:|:---:|
-| **Total Stars Earned** | ⭐ 6 |
-| **Total Commits (2025)** | 🔥 88 |
-| **Total PRs** | 🚀 1 |
-| **Repositories Contributed** | 📚 Multiple |
-| **Current Streak** | 🎯 In Progress |
-
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adrptrp&theme=tokyonight&locale=id" alt="GitHub Streak" />
 </div>
 
 ---
