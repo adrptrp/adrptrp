@@ -152,7 +152,7 @@ Status: "Always eager for new challenges in tech industry"
 
 <div align="center">
 
-[![Instagram](https://www.instagram.com/adrptr.p?igsh=NG0xcTJ5Njg4dXNk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrptr.p?igsh=NG0xcTJ5Njg4dXNk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-putra-pratama-3b46aa322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.pp13124@gmail.com)
 
