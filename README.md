@@ -17,8 +17,7 @@
 * *Location:* Jakarta, Indonesia 🇮🇩
 
 ### 💻 Focus
-* Web Development
-* Full-Stack Developer
+* Web Development & Full-Stack Developer
 
 ### 🔥 Passion
 * Creating impactful projects with cutting-edge technologies
