@@ -93,12 +93,8 @@ Status: "Always eager for new challenges in tech industry"
 <br>MySQL
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database-generic/database-generic.svg" width="48" height="48" alt="Database" />
-<br>Database
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Development" />
-<br>Development
+<br>VS Code
 </td>
 </tr>
 </table>
