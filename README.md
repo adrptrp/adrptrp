@@ -161,7 +161,7 @@
   
 **🔥 Passionate Developer | 🌟 Innovation Seeker | 🤝 Collaboration Ready**
 
-![Profile Views](https://komarev.com/ghpvc/?username=AL-Qudzzz&color=00D9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=adrptrp&color=00D9FF&style=flat-square&label=Profile+Views)
 
 ⭐ **Star my repos if you find them interesting!** ⭐
 
