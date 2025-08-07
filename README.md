@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adrptrp&theme=tokyonight&locale=id" alt="GitHub Streak" />
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=adrptrp&theme=tokyonight&locale=id" alt="GitHub Streak"/>
 </div>
 
 ---
