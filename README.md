@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Adrian Putra Pratama 🌟
+# 🌟 Adrian Putra Pratama🌟
 
 💻 **Information Systems Student at UIN Syarif Hidayatullah Jakarta**
 
